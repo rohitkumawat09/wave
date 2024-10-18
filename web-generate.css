@@ -1,0 +1,25 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+
+
+
+
+.name{
+position: relative;
+width: 100%;
+height: 100vh;
+    background-image: url(https://wallpaper.forfun.com/fetch/92/92eed256f944e99aaf527433f9a8794e.jpeg);
+background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+
+#wave{
+    position: absolute;
+bottom: 0;
+}
